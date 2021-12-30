@@ -23,20 +23,13 @@
     {
         "user_id": 1,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 15,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 22,
+                "exer_id": 9,
                 "score": 1.0
             },
             {
@@ -51,20 +44,27 @@
     {
         "user_id": 2,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 3,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 29,
+                "exer_id": 23,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 19,
+                "exer_id": 32,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 21,
                 "score": 1.0
             }
         ]
@@ -78,14 +78,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 35,
+                "exer_id": 40,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 14,
+                "exer_id": 35,
                 "score": 1.0
             }
         ]
@@ -93,20 +93,27 @@
     {
         "user_id": 4,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 3,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 33,
+                "exer_id": 45,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 50,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 39,
+                "exer_id": 11,
                 "score": 1.0
             }
         ]
@@ -114,27 +121,20 @@
     {
         "user_id": 5,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 48,
+                "exer_id": 58,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 54,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 37,
+                "exer_id": 53,
                 "score": 1.0
             }
         ]
@@ -142,8 +142,15 @@
     {
         "user_id": 6,
         "teacher": 0,
-        "log_num": 4,
+        "log_num": 5,
         "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 72,
+                "score": 1.0
+            },
             {
                 "knowledge_code": [
                     280
@@ -155,21 +162,21 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 62,
+                "exer_id": 17,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 67,
+                "exer_id": 26,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 13,
+                "exer_id": 64,
                 "score": 1.0
             }
         ]
@@ -183,14 +190,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 72,
+                "exer_id": 82,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 68,
+                "exer_id": 76,
                 "score": 1.0
             }
         ]
@@ -198,20 +205,34 @@
     {
         "user_id": 8,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 4,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 27,
+                "exer_id": 86,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 39,
+                "exer_id": 23,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 82,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 10,
                 "score": 1.0
             }
         ]
@@ -219,20 +240,34 @@
     {
         "user_id": 9,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 4,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 87,
+                "exer_id": 55,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 83,
+                "exer_id": 77,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 44,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 96,
                 "score": 1.0
             }
         ]
@@ -240,27 +275,20 @@
     {
         "user_id": 10,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 90,
+                "exer_id": 105,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 92,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 58,
+                "exer_id": 101,
                 "score": 1.0
             }
         ]
@@ -274,21 +302,21 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 96,
+                "exer_id": 108,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 100,
+                "exer_id": 58,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 55,
+                "exer_id": 90,
                 "score": 1.0
             }
         ]
@@ -296,27 +324,20 @@
     {
         "user_id": 12,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 65,
+                "exer_id": 119,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 104,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 10,
+                "exer_id": 116,
                 "score": 1.0
             }
         ]
@@ -324,27 +345,20 @@
     {
         "user_id": 13,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 50,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 28,
+                "exer_id": 123,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 30,
+                "exer_id": 61,
                 "score": 1.0
             }
         ]
@@ -358,29 +372,29 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 91,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 110,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 109,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
                 "exer_id": 21,
-                "score": 0.0
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 43,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 122,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 94,
+                "score": 1.0
             }
         ]
     },
@@ -393,21 +407,21 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 10,
+                "exer_id": 24,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 25,
+                "exer_id": 134,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 117,
+                "exer_id": 44,
                 "score": 1.0
             }
         ]
@@ -415,103 +429,26 @@
     {
         "user_id": 16,
         "teacher": 0,
-        "log_num": 4,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 17,
+                "exer_id": 104,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 11,
+                "exer_id": 101,
                 "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 53,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 88,
-                "score": 0.0
             }
         ]
     },
     {
         "user_id": 17,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 129,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 51,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 127,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 18,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 23,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 136,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 115,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 82,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 19,
         "teacher": 0,
         "log_num": 2,
         "logs": [
@@ -519,20 +456,41 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 140,
+                "exer_id": 69,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 38,
+                "exer_id": 139,
                 "score": 1.0
             }
         ]
     },
     {
-        "user_id": 20,
+        "user_id": 18,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 24,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 132,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 19,
         "teacher": 0,
         "log_num": 4,
         "logs": [
@@ -540,34 +498,34 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 143,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 138,
+                "exer_id": 150,
                 "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 61,
+                "exer_id": 104,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 41,
+                "exer_id": 66,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 147,
                 "score": 1.0
             }
         ]
     },
     {
-        "user_id": 21,
+        "user_id": 20,
         "teacher": 0,
         "log_num": 3,
         "logs": [
@@ -575,21 +533,42 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 27,
+                "exer_id": 43,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 64,
+                "exer_id": 104,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 93,
+                "exer_id": 33,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 21,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 157,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 85,
                 "score": 1.0
             }
         ]
@@ -603,21 +582,21 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 31,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 106,
+                "exer_id": 159,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 13,
+                "exer_id": 24,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 158,
                 "score": 1.0
             }
         ]
@@ -625,20 +604,27 @@
     {
         "user_id": 23,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 3,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 108,
+                "exer_id": 142,
                 "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 24,
+                "exer_id": 118,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 2,
                 "score": 0.0
             }
         ]
@@ -646,160 +632,13 @@
     {
         "user_id": 24,
         "teacher": 0,
-        "log_num": 4,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 119,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 115,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 153,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 133,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 25,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 63,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 51,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 136,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 26,
-        "teacher": 0,
-        "log_num": 1,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 143,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 27,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 157,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 56,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 5,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 156,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 28,
-        "teacher": 0,
-        "log_num": 7,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 106,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 93,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 4,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 90,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 82,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 59,
+                "exer_id": 32,
                 "score": 0.0
             },
             {
@@ -812,7 +651,7 @@
         ]
     },
     {
-        "user_id": 29,
+        "user_id": 25,
         "teacher": 0,
         "log_num": 2,
         "logs": [
@@ -827,13 +666,34 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 13,
-                "score": 0.0
+                "exer_id": 85,
+                "score": 1.0
             }
         ]
     },
     {
-        "user_id": 30,
+        "user_id": 26,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 165,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 62,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 27,
         "teacher": 0,
         "log_num": 3,
         "logs": [
@@ -841,21 +701,189 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 146,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 167,
+                "exer_id": 85,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 30,
+                "exer_id": 162,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 89,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 28,
+        "teacher": 0,
+        "log_num": 8,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 168,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 63,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 71,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 39,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 125,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 37,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 0,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 148,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 29,
+        "teacher": 0,
+        "log_num": 9,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 34,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 113,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 85,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 133,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 24,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 11,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 66,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 142,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 90,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 30,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 98,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 21,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 135,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 117,
                 "score": 1.0
             }
         ]
@@ -863,42 +891,28 @@
     {
         "user_id": 31,
         "teacher": 0,
-        "log_num": 5,
+        "log_num": 3,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 45,
+                "exer_id": 70,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 140,
+                "exer_id": 164,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 118,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 110,
+                "exer_id": 152,
                 "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 46,
-                "score": 0.0
             }
         ]
     },
@@ -911,14 +925,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 33,
+                "exer_id": 161,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 15,
+                "exer_id": 170,
                 "score": 1.0
             }
         ]
@@ -932,14 +946,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 79,
+                "exer_id": 105,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 135,
+                "exer_id": 33,
                 "score": 1.0
             }
         ]
@@ -947,97 +961,13 @@
     {
         "user_id": 34,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 5,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 92,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 120,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 35,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 151,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 108,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 99,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 3,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 36,
-        "teacher": 0,
-        "log_num": 2,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 102,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 12,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 37,
-        "teacher": 0,
-        "log_num": 7,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 73,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 30,
+                "exer_id": 163,
                 "score": 0.0
             },
             {
@@ -1051,28 +981,91 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 52,
+                "exer_id": 131,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 123,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 62,
+                "exer_id": 146,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 35,
+        "teacher": 0,
+        "log_num": 1,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 0,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 36,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 70,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 14,
+                "exer_id": 170,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 37,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 153,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 17,
+                "exer_id": 63,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 130,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 74,
                 "score": 1.0
             }
         ]
@@ -1086,35 +1079,7 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 60,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 141,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 150,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 39,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 132,
+                "exer_id": 3,
                 "score": 1.0
             },
             {
@@ -1128,8 +1093,36 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 36,
-                "score": 0.0
+                "exer_id": 43,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 39,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 177,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 179,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 23,
+                "score": 1.0
             }
         ]
     },
@@ -1142,14 +1135,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 174,
+                "exer_id": 134,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 148,
+                "exer_id": 96,
                 "score": 1.0
             }
         ]
@@ -1157,70 +1150,56 @@
     {
         "user_id": 41,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 4,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 24,
+                "exer_id": 122,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 86,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 101,
+                "exer_id": 81,
                 "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 15,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 181,
+                "score": 1.0
             }
         ]
     },
     {
         "user_id": 42,
         "teacher": 0,
-        "log_num": 5,
+        "log_num": 2,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 24,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 86,
+                "exer_id": 69,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 106,
+                "exer_id": 51,
                 "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 174,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 62,
-                "score": 0.0
             }
         ]
     },
@@ -1233,29 +1212,29 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 65,
+                "exer_id": 37,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 132,
+                "exer_id": 51,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 99,
+                "exer_id": 93,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 68,
-                "score": 1.0
+                "exer_id": 182,
+                "score": 0.0
             }
         ]
     },
@@ -1268,7 +1247,315 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 131,
+                "exer_id": 82,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 113,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 0,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 45,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 31,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 125,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 46,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 42,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 87,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 173,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 186,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 47,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 37,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 52,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 48,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 123,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 20,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 49,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 84,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 137,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 182,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 50,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 121,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 114,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 51,
+        "teacher": 0,
+        "log_num": 1,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 83,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 52,
+        "teacher": 0,
+        "log_num": 9,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 151,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 123,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 172,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 143,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 15,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 18,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 73,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 58,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 181,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 53,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 113,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 1,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 143,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 54,
+        "teacher": 0,
+        "log_num": 6,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 17,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 64,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 16,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 107,
                 "score": 1.0
             },
             {
@@ -1282,13 +1569,90 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 40,
+                "exer_id": 180,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 55,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 184,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 16,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 126,
                 "score": 1.0
             }
         ]
     },
     {
-        "user_id": 45,
+        "user_id": 56,
+        "teacher": 0,
+        "log_num": 6,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 114,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 110,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 120,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 186,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 65,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 34,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 57,
         "teacher": 0,
         "log_num": 3,
         "logs": [
@@ -1303,20 +1667,20 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 77,
+                "exer_id": 31,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 93,
-                "score": 0.0
+                "exer_id": 117,
+                "score": 1.0
             }
         ]
     },
     {
-        "user_id": 46,
+        "user_id": 58,
         "teacher": 0,
         "log_num": 4,
         "logs": [
@@ -1324,15 +1688,127 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 182,
+                "exer_id": 187,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 75,
-                "score": 0.0
+                "exer_id": 53,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 37,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 98,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 59,
+        "teacher": 0,
+        "log_num": 5,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 88,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 184,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 44,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 24,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 61,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 60,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 85,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 149,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 132,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 61,
+        "teacher": 0,
+        "log_num": 5,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 129,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 96,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 107,
+                "score": 1.0
             },
             {
                 "knowledge_code": [
@@ -1345,583 +1821,16 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 63,
+                "exer_id": 98,
                 "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 47,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 15,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 123,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 1,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 48,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 108,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 123,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 22,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 101,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 49,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 19,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 147,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 155,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 50,
-        "teacher": 0,
-        "log_num": 6,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 148,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 185,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 124,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 159,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 41,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 169,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 51,
-        "teacher": 0,
-        "log_num": 5,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 57,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 140,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 118,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 22,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 23,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 52,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 0,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 151,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 131,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 53,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 59,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 140,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 15,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 54,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 47,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 85,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 154,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 24,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 55,
-        "teacher": 0,
-        "log_num": 5,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 111,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 32,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 62,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 153,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 17,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 56,
-        "teacher": 0,
-        "log_num": 2,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 64,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 16,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 57,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 128,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 49,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 32,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 58,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 53,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 147,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 46,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 59,
-        "teacher": 0,
-        "log_num": 1,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 117,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 60,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 77,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 11,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 187,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 40,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 61,
-        "teacher": 0,
-        "log_num": 2,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 13,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 75,
-                "score": 1.0
             }
         ]
     },
     {
         "user_id": 62,
         "teacher": 0,
-        "log_num": 3,
+        "log_num": 8,
         "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 119,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 186,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 81,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 63,
-        "teacher": 0,
-        "log_num": 2,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 43,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 80,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 64,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 172,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 132,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 89,
-                "score": 0.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 73,
-                "score": 0.0
-            }
-        ]
-    },
-    {
-        "user_id": 65,
-        "teacher": 0,
-        "log_num": 5,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 27,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 132,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 173,
-                "score": 1.0
-            },
             {
                 "knowledge_code": [
                     280
@@ -1933,77 +1842,35 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 101,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 66,
-        "teacher": 0,
-        "log_num": 3,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 16,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 138,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 83,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 67,
-        "teacher": 0,
-        "log_num": 2,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 91,
+                "exer_id": 0,
                 "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 93,
+                "exer_id": 129,
                 "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 68,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
+            },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 100,
+                "exer_id": 33,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 63,
                 "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 125,
+                "exer_id": 180,
                 "score": 1.0
             },
             {
@@ -2017,7 +1884,217 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 99,
+                "exer_id": 98,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 63,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 23,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 126,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 62,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 64,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 103,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 64,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 87,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 33,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 65,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 133,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 72,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 3,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 80,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 66,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 95,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 103,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 189,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 67,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 172,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 77,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 68,
+        "teacher": 0,
+        "log_num": 8,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 164,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 158,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 179,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 128,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 177,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 68,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 61,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 98,
                 "score": 1.0
             }
         ]
@@ -2038,14 +2115,14 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 177,
+                "exer_id": 176,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 82,
+                "exer_id": 100,
                 "score": 1.0
             }
         ]
@@ -2053,8 +2130,36 @@
     {
         "user_id": 70,
         "teacher": 0,
-        "log_num": 4,
+        "log_num": 6,
         "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 179,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 139,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 144,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 111,
+                "score": 0.0
+            },
             {
                 "knowledge_code": [
                     280
@@ -2066,83 +2171,55 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 77,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 20,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 47,
-                "score": 1.0
+                "exer_id": 149,
+                "score": 0.0
             }
         ]
     },
     {
         "user_id": 71,
         "teacher": 0,
-        "log_num": 2,
+        "log_num": 5,
         "logs": [
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 142,
+                "exer_id": 114,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 1,
+                "exer_id": 73,
                 "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 11,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 15,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 146,
+                "score": 0.0
             }
         ]
     },
     {
         "user_id": 72,
-        "teacher": 0,
-        "log_num": 4,
-        "logs": [
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 69,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 4,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 27,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 109,
-                "score": 1.0
-            }
-        ]
-    },
-    {
-        "user_id": 73,
         "teacher": 0,
         "log_num": 3,
         "logs": [
@@ -2150,22 +2227,57 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 119,
+                "exer_id": 154,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 124,
+                "exer_id": 103,
                 "score": 1.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 132,
+                "exer_id": 177,
                 "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 73,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 131,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 100,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 96,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 54,
+                "score": 0.0
             }
         ]
     },
@@ -2178,36 +2290,197 @@
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 108,
+                "exer_id": 7,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 42,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 82,
                 "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
-                "exer_id": 153,
+                "exer_id": 49,
                 "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 92,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 75,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 90,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 45,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 143,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 97,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 76,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 175,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 108,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 77,
+        "teacher": 0,
+        "log_num": 3,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 185,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 181,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 41,
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "user_id": 78,
+        "teacher": 0,
+        "log_num": 4,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 60,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 62,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 186,
+                "score": 0.0
             },
             {
                 "knowledge_code": [
                     280
                 ],
                 "exer_id": 126,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 5,
-                "score": 1.0
-            },
-            {
-                "knowledge_code": [
-                    280
-                ],
-                "exer_id": 30,
                 "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 79,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 140,
+                "score": 0.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 147,
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "user_id": 80,
+        "teacher": 0,
+        "log_num": 2,
+        "logs": [
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 57,
+                "score": 1.0
+            },
+            {
+                "knowledge_code": [
+                    280
+                ],
+                "exer_id": 182,
+                "score": 1.0
             }
         ]
     }
