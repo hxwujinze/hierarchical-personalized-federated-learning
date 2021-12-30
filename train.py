@@ -115,16 +115,16 @@ def Apply(g_model,local,auc,student_group,question_group,method):
         l_w['g.weight'] = l_w['g.weight'] * q + (centers[:,-2] * (1-q)).view(-1,1)
         
         
-      for k in w.keys():
+        for k in w.keys():
          
-         if k in Name:
-             if k == 'skill_M':
-                 q = auc[0]
-                 l_w[k] = l_w[k]*q + w[k]*(1-q)
-             else:          
-                 for i in range(0,len(l_w[k])):
-                     q = auc[1][i]
-                     l_w[k][i] = l_w[k][i]*q + w[k][i]*(1-q) 
+            if k in Name:
+                if k == 'skill_M':
+                    q = auc[0]
+                    l_w[k] = l_w[k]*q + w[k]*(1-q)
+                else:          
+                    for i in range(0,len(l_w[k])):
+                        q = auc[1][i]
+                        l_w[k][i] = l_w[k][i]*q + w[k][i]*(1-q) 
                      
     local.load_state_dict(l_w) 
 
@@ -145,26 +145,27 @@ def total(result):
     label_all = np.array(label_all)
     rmse = np.sqrt(np.mean((label_all - pred_all) ** 2))
     mae = np.mean(np.abs(label_all - pred_all))
-    print('federated acc= %f, rmse= %f, mae= %f, map= %f, r2= %f' % (acc, rmse, mae, mAP, r2))
+    auc = roc_auc_score(label_all, pred_all)
+    print('federated acc= %f, rmse= %f, mae= %f, map= %f, r2= %f, auc= %f' % (acc, rmse, mae, mAP, r2, auc))
     return acc
 
 def train(method):
     seed = 0
-    school_list = [0,1,2,3,4,5,6,7,8,9]
+    client_list = [0,1]
 
     Nets = []
     random.seed(seed)
-    path = 'data/datatest'
-    for school in school_list:
+    path = 'data/'
+    for client in client_list:
         torch.manual_seed(seed)
         torch.cuda.manual_seed(seed)
         torch.cuda.manual_seed_all(seed)
      
-        data_loader = TrainDataLoader(school, path)
-        val_loader = ValTestDataLoader(school, path)
+        data_loader = TrainDataLoader(client, path)
+        val_loader = ValTestDataLoader(client, path)
         net = Net(data_loader.student_n, data_loader.exer_n, data_loader.knowledge_n)
         net = net.to(device)
-        Nets.append([school,data_loader,net,copy.deepcopy(net.state_dict()),val_loader]) 
+        Nets.append([client,data_loader,net,copy.deepcopy(net.state_dict()),val_loader]) 
              
 
     global_model1 = Nets[0][3]
@@ -295,7 +296,8 @@ def validate(model, epoch, school, path, val_loader):
     # compute AUC
     R2 = r2_score(label_all, pred_all)
     mae = np.mean(np.abs(label_all - pred_all)) 
-    print('school= %d, r2= %f, rmse= %f, mae= %f' % (school, R2, rmse, mae))
+    auc = roc_auc_score(label_all, pred_all)
+    print('school= %d, r2= %f, rmse= %f, mae= %f, accuracy=%f, auc=%f' % (school, R2, rmse, mae, accuracy, auc))
 
     know_distribution = torch.ones((data_loader.knowledge_n))
     know_acc = torch.zeros((data_loader.knowledge_n))
@@ -307,7 +309,7 @@ def validate(model, epoch, school, path, val_loader):
             if KNOW[i] == know:
                 K_pred2.append(1 if (mlabel_all[i] >= mpred_all[i] and mpred_all[i]>mlabel_all[i] -1) else 0)
         know_acc[know] = np.sum(np.array(K_pred2))/len(K_pred2)
-    return [mae,accuracy,rmse,exer_count,R2],list(pred_all),list(label_all),know_distribution,know_acc
+    return [mae,auc,rmse,exer_count,R2],list(pred_all),list(label_all),know_distribution,know_acc
 
 
 def save_snapshot(model, filename):

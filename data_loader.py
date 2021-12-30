@@ -11,7 +11,7 @@ class TrainDataLoader(object):
         self.ptr = 0
         self.data = []
         self.school = school
-        data_file = path+str(school)+'.json'
+        data_file = path+'/train/'+str(school)+'.json'
         config_file = 'config.txt'        
 
         with open(data_file, encoding='utf8') as i_f:
@@ -34,7 +34,7 @@ class TrainDataLoader(object):
             knowledge_emb = [0.] * self.knowledge_dim
        
             for knowledge_code in log['knowledge_code']:
-                knowledge_emb[knowledge_code] = 1.0
+                knowledge_emb[knowledge_code-1] = 1.0
             y = float(log['score'])
             input_stu_ids.append(log['user_id'])
             input_exer_ids.append(log['exer_id'])
@@ -60,7 +60,7 @@ class ValTestDataLoader(object):
         self.count = 0
         self.data = []
         self.school = school
-        data_file = path+str(school)+'.json'
+        data_file = path+'/test/'+str(school)+'.json'
         config_file = 'config.txt'
     
         with open(data_file, encoding='utf8') as i_f:
@@ -87,8 +87,7 @@ class ValTestDataLoader(object):
             input_exer_ids.append(int(log['exer_id']))
             knowledge_emb = [0.] * self.knowledge_dim
             for knowledge_code in log['knowledge_code']:
-              
-                knowledge_emb[knowledge_code] = 1.0
+                knowledge_emb[knowledge_code-1] = 1.0
                 knowitem.append(knowledge_code)
             know.append(knowitem)   
             input_knowledge_embs.append(knowledge_emb)

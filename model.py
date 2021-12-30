@@ -9,8 +9,7 @@ class Net(nn.Module):
         self.exer_n = int(exer_n)
         self.emb_num = int(student_n)
         self.stu_dim = int(self.knowledge_dim)
-        self.prednet_input_len = int(self.knowledge_dim)
-        self.prednet_len1, self.prednet_len2 = 512, 256  # changeable
+
         self.h_dim = 5
         super(Net, self).__init__()
 
@@ -18,14 +17,11 @@ class Net(nn.Module):
         self.know_W = nn.Parameter(torch.Tensor(self.knowledge_dim,self.h_dim))        
         self.skill_M = nn.Parameter(torch.Tensor(self.h_dim,1))
         nn.init.xavier_uniform_(self.skill_W,
-            gain=nn.init.calculate_gain('relu'))
+                                gain=nn.init.calculate_gain('relu'))
         nn.init.xavier_uniform_(self.know_W,
-            gain=nn.init.calculate_gain('relu'))
+                                gain=nn.init.calculate_gain('relu'))
         nn.init.xavier_uniform_(self.skill_M,
-            gain=nn.init.calculate_gain('relu'))
-        #nn.init.uniform_(self.skill_W)
-        #nn.init.uniform_(self.know_W)
-        #nn.init.uniform_(self.skill_M)
+                                gain=nn.init.calculate_gain('relu'))
         self.student_emb = nn.Embedding(self.emb_num, self.stu_dim)
         self.student_emb.weight.data.copy_(torch.zeros(self.emb_num, self.stu_dim))
         self.k_difficulty = nn.Embedding(self.exer_n, self.knowledge_dim)
@@ -36,13 +32,6 @@ class Net(nn.Module):
         self.g = nn.Embedding(self.exer_n, 1)
         self.g.weight.data.copy_(torch.zeros(self.exer_n, 1))
     def forward(self, stu_id, exer_id, kn_emb):
-        '''
-        :param stu_id: LongTensor
-        :param exer_id: LongTensor
-        :param kn_emb: FloatTensor, the knowledge relevancy vectors
-        :return: FloatTensor, the probabilities of answering correctly
-        '''
-        # before prednet
         relative_emb = (kn_emb @ (self.relative_M) )
          
         stu_emb = ((self.student_emb(stu_id))*relative_emb).unsqueeze(1)
@@ -55,10 +44,12 @@ class Net(nn.Module):
         slip = torch.sigmoid(self.s(exer_id)-1)
         guess = torch.sigmoid(self.g(exer_id)-1)
         input_x = (1- slip)*input_x + guess * (1-input_x)
-        output = torch.sigmoid(input_x)
-        #[0,1]
-        #output = 5 * torch.sigmoid(input_x)
-        #[0,5]
+        output = torch.sigmoid(input_x)# [0,1]
+        #output = 5*torch.sigmoid(input_x)#[0,5]
+        
         
         return output.squeeze(-1)
+
+
+
 
